@@ -1,5 +1,6 @@
-![Cover](https://github.com/MathissGit/MathissGit/blob/master/img/dwight.gif)
-
+<div align="center">
+  <img src="img/dwight.gif">
+</div>
 
 <!--
 **MathissGit/MathissGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
