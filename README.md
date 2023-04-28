@@ -1,4 +1,4 @@
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/MathissGit/MathissGit/blob/master/img/dwight.gif)
 
 
 <!--
