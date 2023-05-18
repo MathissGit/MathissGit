@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mathis</h1>
-<h3 align="center">A passionate frontend developer from France !</h3>
+<h3 align="center">A frontend development student from France !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathissgit&label=Profile%20views&color=0e75b6&style=flat" alt="mathissgit" /> </p>
 
