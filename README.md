@@ -5,7 +5,7 @@
 # Hello World👋, I'm Mathis 
 
 ### 🎓 Étudiant en BTS SIO 
-Salut ! Je suis **Mathis**, actuellement en deuxième année de BTS Services Informatiques aux Organisations (SIO) option **SLAM** et je me spécialise dans le développement d'applications.
+Salut ! Je suis **Mathis**, actuellement en deuxième année de BTS Services Informatiques aux Organisations (SIO) option **SLAM** et je me spécialise dans le développement Fullstack DevOps.
 
 ### Mes Languages de programation
 
